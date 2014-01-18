@@ -1,6 +1,5 @@
-bdasearch
-=========
-## Search Bermuda Classified Sites
+Search Bermuda Classified Sites
+===============================
 
 Use this tool to search several Bermuda classifieds sites from one place.
 <br>*Original source/site: http://bdasearch.com/*
